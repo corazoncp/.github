@@ -1,0 +1,16 @@
+# Independent sub-repositories (tracked separately)
+corazoncp-landing/
+
+# Worktrees and environments
+.worktrees/
+.direnv/
+
+# Editor / Notes / OS
+.obsidian/
+.internal/
+.trash/
+.vscode/
+.idea/
+*.swp
+*~
+.DS_Store
