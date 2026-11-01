@@ -1,9 +1,13 @@
 # Independent sub-repositories (tracked separately)
 corazoncp-landing/
+awwwards-testing/
 
 # Worktrees and environments
 .worktrees/
 .direnv/
+.env
+.env.*
+!.env.example
 
 # Editor / Notes / OS
 .obsidian/

@@ -7,7 +7,7 @@
 
 ## 🌿 Overview & Philosophy
 
-**El Corazón como Portal** is a holistic, spiritual wellness initiative founded by **Azucena Sánchez (Azu Seva Surpreet Kaur)** in Cali, Colombia. 
+**El Corazón como Portal** is a holistic, spiritual wellness initiative founded by **Azucena Sánchez (Azu Seva Surpreet Kaur)** in Valledupar, Colombia. 
 
 The initiative bridges personal accompaniment, energetic body therapies, conscious mentoring, and communal spaces. Rather than a monolithic application, this digital ecosystem evolves strictly through **vertical slices** guided by real user needs and evidence-backed product discovery.
 
@@ -25,7 +25,7 @@ The initiative bridges personal accompaniment, energetic body therapies, conscio
 
 ## 🫀 Core Services & Offerings
 
-- **Access Bars®:** 32-point cranial touch therapy for mental clarity, stress release, and emotional unburdening (Presencial — Cali / Barrio Vipasa o a domicilio).
+- **Access Bars®:** 32-point cranial touch therapy for mental clarity, stress release, and emotional unburdening (Presencial — Valledupar o a domicilio).
 - **Body Process:** Energetic bodywork restoring vitality, alignment, and physical ease.
 - **Mentoring & Acompañamiento:** Consciousness coaching and personal healing sessions.
 - **Oidaterapia & Meditaciones:** Spiritual counseling, faith exploration, and guided meditative journeys.
@@ -34,7 +34,9 @@ The initiative bridges personal accompaniment, energetic body therapies, conscio
 
 ## 📞 Direct Contact & Inquiries
 
-- **WhatsApp:** [+57 312 3907177](https://wa.me/573123907177) · [+57 321 542 8972](https://wa.me/573215428972)
+- **WhatsApp:** [+57 321 542 8972](https://wa.me/573215428972)
 - **Instagram:** [@elcorazoncomoportal](https://instagram.com/elcorazoncomoportal)
+- **YouTube:** [@Elcorazóncomoportal](https://youtube.com/@Elcorazóncomoportal)
+- **X (Twitter):** [@Elcorazoncp](https://x.com/Elcorazoncp)
 - **Email:** `contactocorazoncp@gmail.com`
-- **Location:** Cali, Colombia (Barrio Vipasa y a domicilio)
+- **Location:** Calle 7 #19B-88 Apto 102, Valledupar, Colombia, 200005
