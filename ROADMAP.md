@@ -25,7 +25,7 @@ Target: Launch a responsive, aesthetic landing page this week driving inquiries 
   - Layout hero message, service cards, and primary contact action.
   - Review content hierarchy with Azu.
 - [ ] **Slice 2: First Usable Preview (Hero + Offerings + WhatsApp Action)**
-  - Implement responsive mobile-first UI with Anne Droid on `feat/anne/*`.
+  - Implement responsive mobile-first UI.
   - Verify working WhatsApp deep links with pre-filled message text.
   - Deploy preview URL for mobile testing.
 - [ ] **Slice 3: Approved Content & Visual Direction**
