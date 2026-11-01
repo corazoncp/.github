@@ -11,4 +11,4 @@ This organization houses the public codebases, documentation, and delivery slice
 
 - 🌐 [**corazoncp-landing**](https://github.com/corazoncp/corazoncp-landing): The official public landing page.
 - 🫀 **Brand & Identity:** Founded by Azucena Sánchez in Cali, Colombia.
-- 💬 **Contact:** [@elcorazoncomoportal](https://instagram.com/elcorazoncomoportal) | [WhatsApp Inquiries](https://wa.me/573123907177)
+- 💬 **Contact:** [@elcorazoncomoportal](https://instagram.com/elcorazoncomoportal) | [WhatsApp Inquiries](https://wa.me/573215428972)

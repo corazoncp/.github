@@ -34,7 +34,7 @@ The initiative bridges personal accompaniment, energetic body therapies, conscio
 
 ## 📞 Direct Contact & Inquiries
 
-- **WhatsApp:** [+57 312 3907177](https://wa.me/573123907177) · [+57 321 542 8972](https://wa.me/573215428972)
+- **WhatsApp:** [+57 321 542 8972](https://wa.me/573215428972)
 - **Instagram:** [@elcorazoncomoportal](https://instagram.com/elcorazoncomoportal)
 - **Email:** `contactocorazoncp@gmail.com`
 - **Location:** Cali, Colombia (Barrio Vipasa y a domicilio)
