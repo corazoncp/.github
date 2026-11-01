@@ -18,7 +18,7 @@ The initiative bridges personal accompaniment, energetic body therapies, conscio
 | Repository | Status | Purpose | Primary Channel / Target |
 | :--- | :--- | :--- | :--- |
 | [`.profile`](./) | **Active Hub** | Sovereign organization hub, shared discovery, specs, and roadmap | Gitea Org Profile / GitHub `.github` |
-| [`corazoncp-landing`](./corazoncp-landing) | **In Progress** | Public-facing landing page (Slice 0–4) | Static Web / Mobile Viewport |
+| [`corazoncp-landing`](https://gitea.roadtotech.me/corazoncp/corazoncp-landing) | **In Progress** | Public-facing landing page (Slice 0–4) | Static Web / Mobile Viewport |
 | `corazoncp-api` | *Deferred* | Future appointment scheduling engine & calendar integration | FastAPI Backend (when required) |
 
 ---

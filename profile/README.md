@@ -9,7 +9,7 @@
 
 This organization houses the public codebases, documentation, and delivery slices for **El Corazón como Portal**:
 
-- 🌐 [**corazoncp-landing**](https://github.com/corazoncp/corazoncp-landing): The official public landing page.
+- 🌐 [**El Corazón como Portal**](https://elcorazoncomoportal.com/): The official public landing page.
 - 🫀 **Brand & Identity:** Founded by Azucena Sánchez in Valledupar, Colombia.
 - 💬 **Contact:** [@elcorazoncomoportal](https://instagram.com/elcorazoncomoportal) | [YouTube](https://youtube.com/@Elcorazóncomoportal) | [X](https://x.com/Elcorazoncp) | [WhatsApp Inquiries](https://wa.me/573215428972)
 - 📍 **Address:** Calle 7 #19B-88 Apto 102, Valledupar, Colombia, 200005
