@@ -3,11 +3,12 @@
 ## 1. Practitioner & Brand Name
 
 - **Founder:** Azucena Sánchez (Azu)
-- **Spiritual Name:** Azu Seva Surpreet Kaur
+- **Spiritual Name:** Seva Surpreet Kaur (Facilitadora de bienestar)
 - **Brand / Platform Name:** El Corazón como Portal
 - **Location & Address:** Calle 7 #19B-88 Apto 102, Valledupar, Colombia, 200005
 - **Channels:**
   - WhatsApp: `+57 321 542 8972` (`https://wa.me/573215428972`)
+  - Facebook Fanpage: `https://www.facebook.com/elcorazoncomoportal/`
   - Instagram: `https://www.instagram.com/elcorazoncomoportal`
   - YouTube: `https://www.youtube.com/@Elcorazóncomoportal`
   - X (Twitter): `https://x.com/Elcorazoncp`
@@ -27,14 +28,26 @@
 
 ---
 
-## 3. Visual & Aesthetic Inspiration
+## 3. Visual & Aesthetic System
 
-- **Official Color Palette Swatch:**
-  - **Ivory (`#F2EBDD`):** Warm organic canvas / serene background.
-  - **Sage (`#78947F`):** Subtle nature accents, borders, soft highlights.
-  - **Emerald (`#185844`):** Anahata heart chakra primary brand accent, conversion CTAs.
-  - **Forest (`#102F27`):** High-contrast deep typography, grounding dark elements (12.14:1 AAA contrast on Ivory).
-  - **Antique Gold (`#B08A4F`):** Sacred geometry accents, delicate dividing lines, elevated highlights.
+### Official Color Palette
+- **Ivory (`#F2EBDD`):** Warm organic canvas / serene background.
+- **Porcelain Mist (`#F4F1EA`):** Secondary canvas / soft breathing background for service cards and contrast sections.
+- **Forest (`#102F27`):** High-contrast deep typography, grounding dark elements (12.14:1 AAA contrast on Ivory).
+- **Gris Oscuro (`#303030`):** Dense body text, secondary captions, and mobile utility UI (10.5:1 AAA contrast on Ivory).
+- **Emerald (`#185844`):** Primary brand accent, conversion CTAs, status badges.
+- **Sage (`#78947F`):** Subtle nature accents, card borders, soft tags.
+- **Antique Gold (`#B08A4F`):** Sacred geometry accents, delicate dividing lines, elevated highlights.
+
+### Typography Stack (Client Approved — 100% Free Open-Source via Google Fonts)
+- **Títulos Principales (H1 / Display):** `Playfair Display` (OFL)
+- **Subtítulos y Encabezados (H2 / H3):** `Cormorant Garamond` (OFL)
+- **Cuerpo de Texto y Botones (Body / UI):** `Raleway` (OFL)
+
+---
+
+## 4. Benchmark & Core Mechanisms
+
 - **Reference Benchmark:** [Sagrada Ela](https://www.sagradaela.com.co/)
   - Aesthetic keywords: Elegant serif typography, warm neutral/sand/ochre tones, intimate high-contrast photography, grounded and serene atmosphere.
   - Core mechanism observed: A strong hero focus with clear invitation to inquire/join via direct chat and cohesive catalog architecture.
