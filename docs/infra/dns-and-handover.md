@@ -32,6 +32,10 @@ Cloudflare Pages connects to the GitHub repository `corazoncp/corazoncp-landing`
 - **Environment variables**:
   - `NODE_VERSION`: `22`
   - `PNPM_VERSION`: `10`
+- **Build Watch Paths (Deployment Filtering)**:
+  - **Include paths**: `*`
+  - **Exclude paths**: `docs/**`, `*.md`, `todo.txt`, `.gitea/**`, `flake.*`, `tests/**`
+  - **Filter Invariant**: Cloudflare Pages automatically cancels/skips builds when incoming commits only touch documentation, task trackers, local Nix development configs, unit tests, or CI workflow files. Deployments are triggered strictly when runtime code (`index.html`, `src/**`, `public/**`, build configurations) is modified.
 
 ---
 
