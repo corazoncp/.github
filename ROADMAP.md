@@ -31,20 +31,21 @@ Target: Launch a responsive, aesthetic landing page driving inquiries to WhatsAp
   - Implement persistent floating WhatsApp action button with $\ge 48\text{px}$ touch target and SVG icon.
   - Enforce strict phone number isolation (`+57 321 542 8972`) and automated seam test suite (`node:test`).
   - Decouple CI quality gate and delegate CD to Cloudflare Pages (ADR-0001). Connect custom domains `elcorazoncomoportal.com`.
-- [ ] **Slice 3: 5-Card Service Catalog, Brand Tokens & Transition Bridge**
+- [ ] **Slice 3: 5-Card Service Catalog, Brand Tokens, Complementary Paths & Facebook Channel** `[DUE: 2026-11-06]`
   - **Prerequisite / Blocker:** Transcode client raw photos (`.CR3`, `.CR2`, `.HEIC`) from `.internal/img/photos/` to web-optimized `.webp` assets ($\le 150$KB) in `corazoncp-landing/public/img/`.
-  - Implement approved 5-card catalog sequence (Oidaterapia $\rightarrow$ Kundalini $\rightarrow$ Barras de Access® $\rightarrow$ Procesos de Cuerpo $\rightarrow$ Meditaciones Personalizadas).
+  - Implement approved 5-card catalog sequence in balanced 3 + 2 centered grid (Oidaterapia $\rightarrow$ Kundalini $\rightarrow$ Barras de Access® $\rightarrow$ Procesos de Cuerpo $\rightarrow$ Meditaciones Personalizadas).
   - Include official Access Consciousness® registered trademark symbol and link (`target="_blank" rel="noopener noreferrer"`).
-  - Configure typography stack (`Playfair Display`, `Cormorant Garamond`, `Raleway`) and color tokens (`Porcelain Mist` `#F4F1EA`, `Gris Oscuro` `#303030`).
-  - Implement Hero polish (approved subtitle copy, increased caption font size, soft green tint header contrast).
-  - Connect Section 04 transition bridge: YouTube guided meditations, upcoming Spotify podcast, and secondary Hatha Yoga invitation.
+  - Configure typography stack (`Playfair Display` for section titles, `Cormorant Garamond` for card titles, `Raleway` for body/UI) and color tokens (`Porcelain Mist` `#F4F1EA`, `Gris Oscuro` `#303030`).
+  - Implement Hero polish (approved subtitle copy with *profunda*, increased desktop caption font size, soft green tint header contrast).
+  - Implement Section 04 Complementary Paths as an asymmetric 65/35 composition under `EXPLORA OTROS ESPACIOS` (65% Hatha Yoga card anchor + 35% quiet open resources panel).
+  - Pull forward Facebook Fanpage channel integration in footer.
   - Provide individual contextual WhatsApp CTAs per card.
-- [ ] **Slice 4: Acerca de Seva Surpreet Kaur, Filosofía & Contact Directory**
+- [ ] **Slice 4: Acerca de Seva Surpreet Kaur, Filosofía & Launch QA**
   - **Prerequisite / Blocker:** Transcode namasté bio photo `IMG_1994.HEIC` to web-optimized `.webp`.
   - Implement "Acerca de Seva Surpreet Kaur" narrative (photo `IMG_1994.HEIC`, dropping "Azu" from heading, Colombian TV-to-healing journey).
   - Implement "Filosofía" banner featuring *«Conecta con tu guía interno»* and sovereign Animados (*«sabiduría trascendental del corazón»*).
-  - Implement Section 07 "Contacto" directory: verified Valledupar address, email, Facebook Fanpage, and social channels.
-  - Execute full mobile viewport, WCAG AAA contrast, and accessibility verification.
+  - Verify complete public contact directory (WhatsApp, email, Facebook, Instagram, YouTube, X, Google Maps address).
+  - Execute full mobile viewport, WCAG AAA contrast, keyboard navigation, and launch verification.
 - [ ] **Slice 5: Bilingual (ES/EN) Localization & Navigation Toggle**
   - Implement multi-page static routing in Vite (`/` for Spanish root, `/en/` for English).
   - Add header language switcher toggle (`[ ES | EN ]`) with persistent visual state.
