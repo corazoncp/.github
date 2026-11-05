@@ -7,9 +7,9 @@ x 2026-11-03 (A) Milestone 1 Slice 2: Implement Hero section, dual-modality badg
 x 2026-11-03 (A) Milestone 1 ADR-0001: Decouple CI quality gates from CD and delegate to Cloudflare Pages +infra @ci issue:corazoncp-landing#10
 x 2026-11-03 (B) Milestone 1 Infra: Connect custom domain elcorazoncomoportal.com on Cloudflare Pages +infra @dns
 x 2026-11-03 (B) Milestone 1 Ergonomics: Fix external link targets, Google Maps directions, and footer spacing +landing @ui issue:corazoncp-landing#12
-(A) Transcode client raw photos (.CR3, .CR2, .HEIC) from .internal to web-optimized .webp [BLOCKER for Slice 3 & 4] +assets @design
+x 2026-11-05 (A) Transcode client raw photos (.CR3, .CR2, .HEIC) from .internal to web-optimized .webp +assets @design
 (A) Milestone 1 Slice 3: Implement 5-card 3+2 service catalog, complementary paths, and Facebook channel due:2026-11-06 +landing @ui issue:corazoncp-landing#3
-(B) Milestone 1 Slice 4: Implement Acerca de Seva Surpreet Kaur, Filosofía, and launch QA +landing @ui issue:corazoncp-landing#4
+(B) Milestone 1 Slice 4: Implement Acerca de Seva Surpreet Kaur, Filosofía, Telegram contact bot, simple-icons, and launch QA +landing @ui issue:corazoncp-landing#4
 (C) Milestone 1 Slice 5: Implement bilingual (ES/EN) routing, navigation toggle, and English copy +landing @i18n issue:corazoncp-landing#7
 (C) Milestone 1 Production Hardening: Implement edge security headers, Schema.org JSON-LD, and SEO/AEO metadata +landing @seo issue:corazoncp-landing#5
 (C) Milestone 2: Discovery and automated appointment & booking engine (corazoncp-api) [DEFERRED] +backend @api

@@ -40,10 +40,12 @@ Target: Launch a responsive, aesthetic landing page driving inquiries to WhatsAp
   - Implement Section 04 Complementary Paths as an asymmetric 65/35 composition under `EXPLORA OTROS ESPACIOS` (65% Hatha Yoga card anchor + 35% quiet open resources panel).
   - Pull forward Facebook Fanpage channel integration in footer.
   - Provide individual contextual WhatsApp CTAs per card.
-- [ ] **Slice 4: Acerca de Seva Surpreet Kaur, Filosofía & Launch QA**
-  - **Prerequisite / Blocker:** Transcode namasté bio photo `IMG_1994.HEIC` to web-optimized `.webp`.
-  - Implement "Acerca de Seva Surpreet Kaur" narrative (photo `IMG_1994.HEIC`, dropping "Azu" from heading, Colombian TV-to-healing journey).
+- [ ] **Slice 4: Acerca de Seva Surpreet Kaur, Filosofía, Telegram Contact Bot & Launch QA**
+  - **Prerequisite / Blocker:** Transcode namasté bio photo `IMG_1994.HEIC` to web-optimized `.webp` *(completed ahead of schedule)*.
+  - Standardize all social media and channel icons using official `simple-icons` vectors with unified $24\times 24$ geometry and `currentColor` styling.
+  - Implement "Acerca de Seva Surpreet Kaur" narrative (photo `namaste-bio.webp`, dropping "Azu" from heading, Colombian TV-to-healing journey).
   - Implement "Filosofía" banner featuring *«Conecta con tu guía interno»* and sovereign Animados (*«sabiduría trascendental del corazón»*).
+  - Implement Section 07 "Contacto Consciente" serverless edge intake (`functions/api/contact.ts` + Cloudflare D1 SQLite database + Telegram Bot API push alerts) with anti-bot honeypot and transparent channel comparison microcopy.
   - Verify complete public contact directory (WhatsApp, email, Facebook, Instagram, YouTube, X, Google Maps address).
   - Execute full mobile viewport, WCAG AAA contrast, keyboard navigation, and launch verification.
 - [ ] **Slice 5: Bilingual (ES/EN) Localization & Navigation Toggle**
