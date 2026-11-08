@@ -31,7 +31,7 @@ Target: Launch a responsive, aesthetic landing page driving inquiries to WhatsAp
   - Implement persistent floating WhatsApp action button with $\ge 48\text{px}$ touch target and SVG icon.
   - Enforce strict phone number isolation (`+57 321 542 8972`) and automated seam test suite (`node:test`).
   - Decouple CI quality gate and delegate CD to Cloudflare Pages (ADR-0001). Connect custom domains `elcorazoncomoportal.com`.
-- [ ] **Slice 3: 5-Card Service Catalog, Brand Tokens, Complementary Paths & Facebook Channel** `[DUE: 2026-11-06]`
+- [x] **Slice 3: 5-Card Service Catalog, Brand Tokens, Complementary Paths & Facebook Channel** `[CODE COMPLETE · PR #15 OPEN]`
   - **Prerequisite / Blocker:** Transcode client raw photos (`.CR3`, `.CR2`, `.HEIC`) from `.internal/img/photos/` to web-optimized `.webp` assets ($\le 150$KB) in `corazoncp-landing/public/img/`.
   - Implement approved 5-card catalog sequence in balanced 3 + 2 centered grid (Oidaterapia $\rightarrow$ Kundalini $\rightarrow$ Barras de Access® $\rightarrow$ Procesos de Cuerpo $\rightarrow$ Meditaciones Personalizadas).
   - Include official Access Consciousness® registered trademark symbol and link (`target="_blank" rel="noopener noreferrer"`).
@@ -40,6 +40,10 @@ Target: Launch a responsive, aesthetic landing page driving inquiries to WhatsAp
   - Implement Section 04 Complementary Paths as an asymmetric 65/35 composition under `EXPLORA OTROS ESPACIOS` (65% Hatha Yoga card anchor + 35% quiet open resources panel).
   - Pull forward Facebook Fanpage channel integration in footer.
   - Provide individual contextual WhatsApp CTAs per card.
+  - Reconcile client review feedback (Nov 6–8 audio intake):
+    - Re-crop Barras de Access® photo (`IMG_0455.HEIC`) to prioritize client's face and Azu's hands.
+    - Level bio photo horizon with Nam Nidhan Kaur (`IMG_1994.HEIC`, +2.5° rotation).
+    - Correct Valledupar postal code to `200001` in Section 07 (Contacto).
 - [ ] **Slice 4: Acerca de Seva Surpreet Kaur, Filosofía, Telegram Contact Bot & Launch QA**
   - **Prerequisite / Blocker:** Transcode namasté bio photo `IMG_1994.HEIC` to web-optimized `.webp` *(completed ahead of schedule)*.
   - Standardize all social media and channel icons using official `simple-icons` vectors with unified $24\times 24$ geometry and `currentColor` styling.
@@ -54,6 +58,10 @@ Target: Launch a responsive, aesthetic landing page driving inquiries to WhatsAp
   - Add SEO/AEO metadata (`hreflang` alternates, English OpenGraph, Schema.org).
   - Localize WhatsApp deep links and integrate validated English copy across all 7 sections.
   - Enforce structural parity invariant between `index.html` and `en/index.html`.
+- [ ] **Slice 6: Outcome-First Testimonials & Deep Process Definitions `[BACKLOG · POST-LAUNCH]`**
+  - **Prerequisite:** Azu to complete Oidaterapia thesis and "laboratorio interior" strategic formulation.
+  - **Outcome-Based Testimonials:** Implement dedicated editorial testimonial section highlighting concrete, tangible client outcomes and nervous-system transformations (no generic praise).
+  - **Deepened Process Definitions:** Update modalities with Azu's evolved therapeutic framework.
 
 ---
 
