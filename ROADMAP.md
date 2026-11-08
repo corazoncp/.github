@@ -31,7 +31,7 @@ Target: Launch a responsive, aesthetic landing page driving inquiries to WhatsAp
   - Implement persistent floating WhatsApp action button with $\ge 48\text{px}$ touch target and SVG icon.
   - Enforce strict phone number isolation (`+57 321 542 8972`) and automated seam test suite (`node:test`).
   - Decouple CI quality gate and delegate CD to Cloudflare Pages (ADR-0001). Connect custom domains `elcorazoncomoportal.com`.
-- [x] **Slice 3: 5-Card Service Catalog, Brand Tokens, Complementary Paths & Facebook Channel** `[CODE COMPLETE · PR #15 OPEN]`
+- [x] **Slice 3: 5-Card Service Catalog, Brand Tokens, Complementary Paths & Facebook Channel** `[DONE · PR #15 MERGED]`
   - **Prerequisite / Blocker:** Transcode client raw photos (`.CR3`, `.CR2`, `.HEIC`) from `.internal/img/photos/` to web-optimized `.webp` assets ($\le 150$KB) in `corazoncp-landing/public/img/`.
   - Implement approved 5-card catalog sequence in balanced 3 + 2 centered grid (Oidaterapia $\rightarrow$ Kundalini $\rightarrow$ Barras de Access® $\rightarrow$ Procesos de Cuerpo $\rightarrow$ Meditaciones Personalizadas).
   - Include official Access Consciousness® registered trademark symbol and link (`target="_blank" rel="noopener noreferrer"`).
@@ -42,7 +42,7 @@ Target: Launch a responsive, aesthetic landing page driving inquiries to WhatsAp
   - Provide individual contextual WhatsApp CTAs per card.
   - Reconcile client review feedback (Nov 6–8 audio intake):
     - Re-crop Barras de Access® photo (`IMG_0455.HEIC`) to prioritize client's face and Azu's hands.
-    - Level bio photo horizon with Nam Nidhan Kaur (`IMG_1994.HEIC`, +2.5° rotation).
+    - Level bio photo horizon with Nam Nidhan Kaur (`IMG_1994.HEIC`, -1.5° counter-clockwise rotation).
     - Correct Valledupar postal code to `200001` in Section 07 (Contacto).
 - [ ] **Slice 4: Acerca de Seva Surpreet Kaur, Filosofía, Telegram Contact Bot & Launch QA**
   - **Prerequisite / Blocker:** Transcode namasté bio photo `IMG_1994.HEIC` to web-optimized `.webp` *(completed ahead of schedule)*.
