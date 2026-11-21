@@ -1,6 +1,7 @@
 # Independent sub-repositories (tracked separately)
 corazoncp-landing/
 awwwards-testing/
+zoom-sched-poc/
 
 # Worktrees and environments
 .worktrees/
